@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Krestiki Pisechki Noliki</string>
+
+    <string name="krestiki_name">Крестики-нолики</string>
+
+    <string name="bot_difficulty">Сложность бота</string>
+
+    <string name="select1x1">Два игрока</string>
+    <string name="selectBot">С ботом</string>
+    <string name="selectExit">Выход</string>
+
+    <string name="selectRestart">Заново</string>
+    <string name="selectMenu">Меню</string>
+
+    <string name="cross_win">Крестики победили</string>
+    <string name="zero_win">Нолики победили</string>
+
+    <string name="human_win">Человек победил</string>
+    <string name="ai_win">Искусственный интеллект победил</string>
+
+    <string name="no_one_win">Никто не победил</string>
+</resources>
